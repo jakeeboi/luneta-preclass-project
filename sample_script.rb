@@ -1,2 +1,2 @@
-print "Hello Ruby!\n"
-print "Goodbye Ruby!\n"
+print "Ruby is Fun!\n"
+print "Let's learn Ruby!\n"
